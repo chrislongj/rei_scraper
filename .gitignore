@@ -1,0 +1,8 @@
+# Python virtual environment
+Include
+Lib
+Scripts
+pyvenv.cfg
+
+# VS Code workspace
+rei_scraper.code-workspace
