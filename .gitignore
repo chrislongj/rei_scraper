@@ -3,6 +3,11 @@ Include
 Lib
 Scripts
 pyvenv.cfg
+__pycache__
 
 # VS Code workspace
 rei_scraper.code-workspace
+
+# Database
+*-journal
+
